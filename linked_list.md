@@ -1,6 +1,6 @@
 ---
 title: CSE 212 Final Project
-description: "Lesson 2: Linked Lists"
+description: "Lesson 1: Linked Lists"
 ---
 
 ## Introduction
